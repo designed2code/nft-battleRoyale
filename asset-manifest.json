@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/nft-battleRoyale/static/css/main.4d36eef0.chunk.css",
+    "main.js": "/nft-battleRoyale/static/js/main.f5265507.chunk.js",
+    "main.js.map": "/nft-battleRoyale/static/js/main.f5265507.chunk.js.map",
+    "runtime-main.js": "/nft-battleRoyale/static/js/runtime-main.143b05b2.js",
+    "runtime-main.js.map": "/nft-battleRoyale/static/js/runtime-main.143b05b2.js.map",
+    "static/js/2.4040c97c.chunk.js": "/nft-battleRoyale/static/js/2.4040c97c.chunk.js",
+    "static/js/2.4040c97c.chunk.js.map": "/nft-battleRoyale/static/js/2.4040c97c.chunk.js.map",
+    "index.html": "/nft-battleRoyale/index.html",
+    "static/css/main.4d36eef0.chunk.css.map": "/nft-battleRoyale/static/css/main.4d36eef0.chunk.css.map",
+    "static/js/2.4040c97c.chunk.js.LICENSE.txt": "/nft-battleRoyale/static/js/2.4040c97c.chunk.js.LICENSE.txt",
+    "static/media/_aboutPage.scss": "/nft-battleRoyale/static/media/about-bg.604d1e43.svg",
+    "static/media/about.2124b653.webp": "/nft-battleRoyale/static/media/about.2124b653.webp",
+    "static/media/_cards.scss": "/nft-battleRoyale/static/media/box-4.18c24ae2.webp",
+    "static/media/bullet.a4a6829c.webp": "/nft-battleRoyale/static/media/bullet.a4a6829c.webp",
+    "static/media/common-crate.d5052d38.png": "/nft-battleRoyale/static/media/common-crate.d5052d38.png",
+    "static/media/contact.742aadb8.png": "/nft-battleRoyale/static/media/contact.742aadb8.png",
+    "static/media/crate.dff9a5f3.png": "/nft-battleRoyale/static/media/crate.dff9a5f3.png",
+    "static/media/epic-crate.4ef84b08.png": "/nft-battleRoyale/static/media/epic-crate.4ef84b08.png",
+    "static/media/eth.d99f62c3.svg": "/nft-battleRoyale/static/media/eth.d99f62c3.svg",
+    "static/media/_benefits.scss": "/nft-battleRoyale/static/media/grid-background.299da391.svg",
+    "static/media/hero-image.4d6595ce.webp": "/nft-battleRoyale/static/media/hero-image.4d6595ce.webp",
+    "static/media/logo.84476346.svg": "/nft-battleRoyale/static/media/logo.84476346.svg",
+    "static/media/play-btn.4c342f2b.svg": "/nft-battleRoyale/static/media/play-btn.4c342f2b.svg",
+    "static/media/rare-crate.9fbac457.png": "/nft-battleRoyale/static/media/rare-crate.9fbac457.png",
+    "static/media/regular-crate.dbbfc4e8.png": "/nft-battleRoyale/static/media/regular-crate.dbbfc4e8.png",
+    "static/media/_crate.scss": "/nft-battleRoyale/static/media/smoke-background.03778016.png",
+    "static/media/tick.77a1f58b.svg": "/nft-battleRoyale/static/media/tick.77a1f58b.svg",
+    "static/media/video-placeholder.7e3c1f3b.png": "/nft-battleRoyale/static/media/video-placeholder.7e3c1f3b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.143b05b2.js",
+    "static/js/2.4040c97c.chunk.js",
+    "static/css/main.4d36eef0.chunk.css",
+    "static/js/main.f5265507.chunk.js"
+  ]
+}
